@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.App.Invoice.Components;
+﻿namespace BlazorPhotino.Pages.App.Invoice.Components;
 
 public partial class InvoiceList
 {

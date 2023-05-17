@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.Authentication.Components;
+﻿namespace BlazorPhotino.Pages.Authentication.Components;
 
 public partial class Login
 {

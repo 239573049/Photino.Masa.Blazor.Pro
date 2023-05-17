@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.Invoice;
+﻿namespace BlazorPhotino.Data.App.Invoice;
 
 public static class InvoiceService
 {

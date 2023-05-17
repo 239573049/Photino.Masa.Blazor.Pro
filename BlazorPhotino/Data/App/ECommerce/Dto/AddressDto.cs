@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.ECommerce.Dto;
+﻿namespace BlazorPhotino.Data.App.ECommerce.Dto;
 
 public class AddressDto
 {

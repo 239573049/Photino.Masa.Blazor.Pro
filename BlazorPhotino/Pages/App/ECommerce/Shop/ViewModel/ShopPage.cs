@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.App.ECommerce.Shop;
+﻿namespace BlazorPhotino.Pages.App.ECommerce.Shop;
 
 public class ShopPage
 {

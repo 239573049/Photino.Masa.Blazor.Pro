@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Global.Nav.Model;
+﻿namespace BlazorPhotino.Global.Nav.Model;
 
 public class NavModel
 {

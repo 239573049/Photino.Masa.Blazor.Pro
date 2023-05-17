@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.Dashboard;
+﻿namespace BlazorPhotino.Pages.Dashboard;
 
 public partial class Analytics : ProComponentBase
 {

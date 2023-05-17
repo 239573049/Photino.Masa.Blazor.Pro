@@ -1,5 +1,5 @@
-﻿using MasaBlazorApp1.Global.Config;
-using MasaBlazorApp1.Global.Nav.Model;
+﻿using BlazorPhotino.Global.Config;
+using BlazorPhotino.Global.Nav.Model;
 
 namespace Microsoft.Extensions.DependencyInjection;
 

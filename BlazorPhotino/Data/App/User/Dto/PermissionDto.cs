@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.User.Dto;
+﻿namespace BlazorPhotino.Data.App.User.Dto;
 
 public class PermissionDto
 {

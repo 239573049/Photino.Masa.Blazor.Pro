@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.Invoice.Dto;
+﻿namespace BlazorPhotino.Data.App.Invoice.Dto;
 
 public class BillDto
 {

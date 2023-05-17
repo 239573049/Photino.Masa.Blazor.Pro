@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Global.Config;
+﻿namespace BlazorPhotino.Global.Config;
 
 public class GlobalConfig
 {

@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.User;
+﻿namespace BlazorPhotino.Data.App.User;
 
 public class UserService
 {

@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.ECommerce;
+﻿namespace BlazorPhotino.Data.App.ECommerce;
 
 public class ShopService
 {

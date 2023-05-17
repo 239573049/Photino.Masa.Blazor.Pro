@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components.Forms;
 
-namespace MasaBlazorApp1.Pages.App.Todo;
+namespace BlazorPhotino.Pages.App.Todo;
 public partial class TodoDetail
 {
     private readonly List<SelectData> _tagList = TodoService.GetTagList();

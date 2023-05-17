@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.App.Invoice;
+﻿namespace BlazorPhotino.Pages.App.Invoice;
 
 public partial class Preview
 {

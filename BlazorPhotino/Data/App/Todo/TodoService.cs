@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.Todo;
+﻿namespace BlazorPhotino.Data.App.Todo;
 
 public class TodoService
 {

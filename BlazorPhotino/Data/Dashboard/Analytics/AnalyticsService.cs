@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.Dashboard.Analytics;
+﻿namespace BlazorPhotino.Data.Dashboard.Analytics;
 
 public static class AnalyticsService
 {

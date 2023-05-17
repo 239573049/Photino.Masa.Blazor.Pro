@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.Dashboard.ECommerce.Dto;
+﻿namespace BlazorPhotino.Data.Dashboard.ECommerce.Dto;
 
 public class CompanyDto
 {

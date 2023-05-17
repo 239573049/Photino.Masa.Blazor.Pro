@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.App.User;
+﻿namespace BlazorPhotino.Pages.App.User;
 
 public class UserPage
 {

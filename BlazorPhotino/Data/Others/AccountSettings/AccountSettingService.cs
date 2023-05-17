@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.Others.AccountSettings;
+﻿namespace BlazorPhotino.Data.Others.AccountSettings;
 
 public static class AccountSettingService
 {

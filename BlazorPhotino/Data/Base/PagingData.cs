@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.Base;
+﻿namespace BlazorPhotino.Data.Base;
 
 public class PagingData<TEntity> where TEntity : class
 {

@@ -1,4 +1,4 @@
-﻿using MasaBlazorApp1;
+﻿using BlazorPhotino;
 using Microsoft.Extensions.DependencyInjection;
 using Photino.Blazor;
 

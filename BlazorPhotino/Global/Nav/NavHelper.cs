@@ -1,6 +1,6 @@
-﻿using MasaBlazorApp1.Global.Nav.Model;
+﻿using BlazorPhotino.Global.Nav.Model;
 
-namespace MasaBlazorApp1.Global;
+namespace BlazorPhotino.Global;
 
 public class NavHelper
 {

@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Pages.App.Todo;
+﻿namespace BlazorPhotino.Pages.App.Todo;
 
 public partial class Todo
 {

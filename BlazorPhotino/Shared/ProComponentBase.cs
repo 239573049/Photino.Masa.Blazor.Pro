@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1;
+﻿namespace BlazorPhotino;
 
 public abstract class ProComponentBase : ComponentBase
 {

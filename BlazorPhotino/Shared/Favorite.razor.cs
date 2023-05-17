@@ -1,7 +1,7 @@
-﻿using MasaBlazorApp1.Global.Config;
-using MasaBlazorApp1.Global.Nav.Model;
+﻿using BlazorPhotino.Global.Config;
+using BlazorPhotino.Global.Nav.Model;
 
-namespace MasaBlazorApp1.Shared;
+namespace BlazorPhotino.Shared;
 
 public partial class Favorite
 {

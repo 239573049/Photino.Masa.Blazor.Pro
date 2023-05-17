@@ -1,4 +1,4 @@
-﻿using MasaBlazorApp1.Global.Nav.Model;
+﻿using BlazorPhotino.Global.Nav.Model;
 
 namespace Microsoft.Extensions.DependencyInjection;
 

@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.Others.AccountSettings.Dto;
+﻿namespace BlazorPhotino.Data.Others.AccountSettings.Dto;
 
 public class CountryDto
 {

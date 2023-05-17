@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.Shared.Favorite;
+﻿namespace BlazorPhotino.Data.Shared.Favorite;
 
 public static class FavoriteService
 {

@@ -1,4 +1,4 @@
-﻿namespace MasaBlazorApp1.Data.App.Todo.Dto;
+﻿namespace BlazorPhotino.Data.App.Todo.Dto;
 
 public class TodoDto
 {
