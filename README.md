@@ -8,7 +8,7 @@ Wpf是基于WebView2实现的BlazorHyBrid，您也可以利用Wpf的能力进行
 
 ## Winform
 
-Winform也是预计WebView2实现的BlazorHyBri，您可以更简单的使用。
+Winform也是WebView2实现的BlazorHyBrid，您可以更简单的使用。
 
 ## Photino
 
