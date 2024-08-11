@@ -30,7 +30,7 @@ public class NavHelper
             {
                 nav.Children = nav.Children.Where(c => c.Hide is false).ToArray();
 
-                nav.Children.ForEach(child =>
+                Array.ForEach(nav.Children, child =>
                 {
                     child.ParentId = nav.Id;
                     child.FullTitle = $"{nav.Title} {child.Title}";
@@ -45,7 +45,7 @@ public class NavHelper
             if (nav.Children is not null) SameLevelNavs.AddRange(nav.Children);
         });
 
-        SameLevelNavs.Where(nav => nav.Href is not null).ForEach(nav =>
+        Array.ForEach(SameLevelNavs.Where(nav => nav.Href is not null).ToArray(), nav =>
         {
             // The following path will not open a new tab
             if (nav.Href is "app/user/view" or "app/user/edit" or "app/ecommerce/details")

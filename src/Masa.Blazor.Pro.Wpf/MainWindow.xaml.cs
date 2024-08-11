@@ -1,6 +1,4 @@
 ﻿using System.Windows;
-using System.Windows.Shapes;
-using BlazorComponent;
 using Microsoft.AspNetCore.Components.WebView.Wpf;
 using Microsoft.Extensions.DependencyInjection;
 using Path = System.IO.Path;
